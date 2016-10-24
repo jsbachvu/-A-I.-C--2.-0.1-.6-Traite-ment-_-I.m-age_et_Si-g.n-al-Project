@@ -4,7 +4,8 @@
 -Mahmut CAVDAR
 -NGO HO Anh Khoa
 -VU Trong Bach
-+## Contributors:
+
+## Contributors:
 +* [Mahmut CAVDAR] (https://www.github.com/mcavdar)
 +* [NGO HO Anh Khoa] (https://github.com/ngohoanhkhoa)
 +* [VU Trong Bach] (https://github.com/ngohoanhkhoa)
