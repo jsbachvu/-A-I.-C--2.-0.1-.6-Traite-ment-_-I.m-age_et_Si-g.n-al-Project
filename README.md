@@ -6,6 +6,6 @@
 -VU Trong Bach
 
 ## Contributors:
-+* [Mahmut CAVDAR] (https://www.github.com/mcavdar)
-+* [NGO HO Anh Khoa] (https://github.com/ngohoanhkhoa)
-+* [VU Trong Bach] (https://github.com/ngohoanhkhoa)
+* [Mahmut CAVDAR] (https://www.github.com/mcavdar)
+* [NGO HO Anh Khoa] (https://github.com/ngohoanhkhoa)
+* [VU Trong Bach] (https://github.com/ngohoanhkhoa)
